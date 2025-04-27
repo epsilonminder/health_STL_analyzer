@@ -11,7 +11,7 @@
 ![AIを活用したデータ分析例](images/STL_analysis_s.png)
 
 ## デモ
-[Health_STL_analyzer](https://example.com)
+[Health_STL_analyzer](https://healthstlanalyzer-f9afa2q5qkbflrugizkeqv.streamlit.app/)
 
 ## 主な機能
 - CSVファイルからのデータ読み込み
