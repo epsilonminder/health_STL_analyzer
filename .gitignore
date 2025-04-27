@@ -1,0 +1,48 @@
+# セキュリティ関連
+.streamlit/
+.env
+*.pem
+*.key
+secrets.toml
+secrets.yaml
+config.yaml
+.credentials
+api_keys.txt
+
+# Python仮想環境
+venv/
+myenv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.log
+
+# IDE設定
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS生成ファイル
+.DS_Store
+Thumbs.db
+.directory
+
+# 一時ファイル
+*.tmp
+*.temp
+*.bak
+*~
+
+# 個人データ
+*.csv
+*.xml
+*.json
+/data/
+/exports/
+/personal/
